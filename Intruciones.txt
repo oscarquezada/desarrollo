@@ -1,0 +1,11 @@
+Hola, sabras como ejecutar esta api.
+
+primero ejecuta el archivo "Script.bat" y este habrira el entorno virtual 
+y descargara en el paquetes nesesarios para la ejecucion.
+
+tambien tienes un archivo llamado Endpoints_disponibles.txt el cual podras ver
+los endpoints dispinibles a ocupar.
+
+puedes aceder a "localhost:8000/api/" para ver los enpoints desde django.
+
+Espero que le guste esta demo hecha entre 27/11/2024 y 28/11/2024
